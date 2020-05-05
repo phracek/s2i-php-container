@@ -20,6 +20,7 @@ ct_os_check_compulsory_vars
 
 ct_os_set_ocp4 "4.4"
 
+oc version
 
 oc status || false "It looks like oc is not properly logged in."
 
